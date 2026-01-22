@@ -7,7 +7,7 @@ This repository documents my first steps into computational biology, starting fr
 - Simple gene expression analysis
 - Introductory DNA sequence analysis (FASTA parsing, GC content, motif counting)
 
-Folders are organized by week or topic to reflect learning progression.
+Folders are organized by week to reflect learning progression.
 
 ## Tools
 - Python  
